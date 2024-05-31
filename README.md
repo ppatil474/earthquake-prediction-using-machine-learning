@@ -78,4 +78,4 @@ The project demonstrates the application of various predictive modeling techniqu
 | Evaluations | Priyanka | Aakhil, Alex |
 | Appendix | Vijval | Priyanka, Aakhil |
 
-# earthquake-prediction-using-machine-learning
+
